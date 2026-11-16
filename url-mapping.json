@@ -1,5 +1,5 @@
 {
-    "updatedAt":  "2026-11-16T07:20:58.960Z",
+    "updatedAt":  "2026-11-16T07:31:59.172Z",
     "scope":  "wallpaper post URL slots from local cache",
     "total":  63,
     "resolved":  59,
@@ -15,7 +15,8 @@
                          "sourceFilename":  "Akira-Wallpaper-01.png",
                          "newFile":  "akira-wallpaper-01.png",
                          "status":  "preexisting-match",
-                         "published":  true
+                         "published":  true,
+                         "httpStatus":  200
                      },
                      {
                          "post":  "Akira",
@@ -26,8 +27,9 @@
                          "newUrl":  "https://raheebpasha792-jpg.github.io/anidraw-wallpapers/akira-colour-01.jpg",
                          "sourceFilename":  "Akira-Colour-01.jpg",
                          "newFile":  "akira-colour-01.jpg",
-                         "status":  "copied-to-staging",
-                         "published":  false
+                         "status":  "published",
+                         "published":  true,
+                         "httpStatus":  200
                      },
                      {
                          "post":  "AniDraw",
@@ -39,7 +41,8 @@
                          "sourceFilename":  "Ani-Draw-Wallpaper-01.jpg",
                          "newFile":  "anidraw-wallpaper-01.jpg",
                          "status":  "preexisting-match",
-                         "published":  true
+                         "published":  true,
+                         "httpStatus":  200
                      },
                      {
                          "post":  "Josuke Higashikata",
@@ -51,7 +54,8 @@
                          "sourceFilename":  "Jojo-s-Bizarre-Adventure-Wallpaper-02.png",
                          "newFile":  "jojos-bizarre-adventure-wallpaper-02.png",
                          "status":  "preexisting-match",
-                         "published":  true
+                         "published":  true,
+                         "httpStatus":  200
                      },
                      {
                          "post":  "Josuke Higashikata",
@@ -63,7 +67,8 @@
                          "sourceFilename":  "Jojo-s-Bizarre-Adventure-Wallpaper-03.png",
                          "newFile":  "jojos-bizarre-adventure-wallpaper-03.png",
                          "status":  "preexisting-match",
-                         "published":  true
+                         "published":  true,
+                         "httpStatus":  200
                      },
                      {
                          "post":  "Josuke Higashikata",
@@ -75,7 +80,8 @@
                          "sourceFilename":  "Jojo-s-Bizarre-Adventure-Wallpaper-04.png",
                          "newFile":  "jojos-bizarre-adventure-wallpaper-04.png",
                          "status":  "preexisting-match",
-                         "published":  true
+                         "published":  true,
+                         "httpStatus":  200
                      },
                      {
                          "post":  "Josuke Higashikata",
@@ -87,7 +93,8 @@
                          "sourceFilename":  "Jojo-s-Bizarre-Adventure-Wallpaper-01.png",
                          "newFile":  "jojos-bizarre-adventure-wallpaper-01.png",
                          "status":  "preexisting-match",
-                         "published":  true
+                         "published":  true,
+                         "httpStatus":  200
                      },
                      {
                          "post":  "Todo",
@@ -98,8 +105,9 @@
                          "newUrl":  "https://raheebpasha792-jpg.github.io/anidraw-wallpapers/todo-wallpaper-01.jpg",
                          "sourceFilename":  "1715267912831.jpg",
                          "newFile":  "todo-wallpaper-01.jpg",
-                         "status":  "copied-to-staging",
-                         "published":  false
+                         "status":  "published",
+                         "published":  true,
+                         "httpStatus":  200
                      },
                      {
                          "post":  "Todo",
@@ -110,8 +118,9 @@
                          "newUrl":  "https://raheebpasha792-jpg.github.io/anidraw-wallpapers/todo-wallpaper-01-orange.jpg",
                          "sourceFilename":  "1000063043.jpg",
                          "newFile":  "todo-wallpaper-01-orange.jpg",
-                         "status":  "copied-to-staging",
-                         "published":  false
+                         "status":  "published",
+                         "published":  true,
+                         "httpStatus":  200
                      },
                      {
                          "post":  "Todo",
@@ -122,8 +131,9 @@
                          "newUrl":  "https://raheebpasha792-jpg.github.io/anidraw-wallpapers/todo-wallpaper-01-red.jpg",
                          "sourceFilename":  "1000063142.jpg",
                          "newFile":  "todo-wallpaper-01-red.jpg",
-                         "status":  "copied-to-staging",
-                         "published":  false
+                         "status":  "published",
+                         "published":  true,
+                         "httpStatus":  200
                      },
                      {
                          "post":  "Todo",
@@ -134,8 +144,9 @@
                          "newUrl":  "https://raheebpasha792-jpg.github.io/anidraw-wallpapers/todo-wallpaper-01-amber.jpg",
                          "sourceFilename":  "1000063277.jpg",
                          "newFile":  "todo-wallpaper-01-amber.jpg",
-                         "status":  "copied-to-staging",
-                         "published":  false
+                         "status":  "published",
+                         "published":  true,
+                         "httpStatus":  200
                      },
                      {
                          "post":  "Todo",
@@ -146,8 +157,9 @@
                          "newUrl":  "https://raheebpasha792-jpg.github.io/anidraw-wallpapers/todo-drawing-01.png",
                          "sourceFilename":  "1000076599.png",
                          "newFile":  "todo-drawing-01.png",
-                         "status":  "copied-to-staging",
-                         "published":  false
+                         "status":  "published",
+                         "published":  true,
+                         "httpStatus":  200
                      },
                      {
                          "post":  "Gun",
@@ -159,7 +171,8 @@
                          "sourceFilename":  "Lookism-Wallpaper-02.png",
                          "newFile":  "lookism-wallpaper-02.png",
                          "status":  "preexisting-match",
-                         "published":  true
+                         "published":  true,
+                         "httpStatus":  200
                      },
                      {
                          "post":  "Zoro",
@@ -171,7 +184,8 @@
                          "sourceFilename":  "One-Piece-Wallpaper-03.png",
                          "newFile":  "one-piece-wallpaper-03.jpg",
                          "status":  "preexisting-match",
-                         "published":  true
+                         "published":  true,
+                         "httpStatus":  200
                      },
                      {
                          "post":  "Homunclus",
@@ -183,7 +197,8 @@
                          "sourceFilename":  "Homunculus-Wallpaper-01.jpg",
                          "newFile":  "homunculus-wallpaper-01.jpg",
                          "status":  "preexisting-match",
-                         "published":  true
+                         "published":  true,
+                         "httpStatus":  200
                      },
                      {
                          "post":  "Gaara",
@@ -195,7 +210,8 @@
                          "sourceFilename":  "Naruto-Wallpaper-02.png",
                          "newFile":  "naruto-wallpaper-02.webp",
                          "status":  "preexisting-match",
-                         "published":  true
+                         "published":  true,
+                         "httpStatus":  200
                      },
                      {
                          "post":  "Gaara",
@@ -207,7 +223,8 @@
                          "sourceFilename":  "Naruto-Wallpaper-01.jpg",
                          "newFile":  "naruto-wallpaper-01.jpg",
                          "status":  "preexisting-match",
-                         "published":  true
+                         "published":  true,
+                         "httpStatus":  200
                      },
                      {
                          "post":  "Hiei",
@@ -219,7 +236,8 @@
                          "sourceFilename":  "Yu-Yu-Hakusho-Wallpaper-01.jpg",
                          "newFile":  "yu-yu-hakusho-wallpaper-01.png",
                          "status":  "preexisting-match",
-                         "published":  true
+                         "published":  true,
+                         "httpStatus":  200
                      },
                      {
                          "post":  "AniDraw",
@@ -231,7 +249,8 @@
                          "sourceFilename":  "Ani-Draw-Wallpaper-02.png",
                          "newFile":  "anidraw-wallpaper-02.png",
                          "status":  "preexisting-match",
-                         "published":  true
+                         "published":  true,
+                         "httpStatus":  200
                      },
                      {
                          "post":  "Komi Shoko",
@@ -243,7 +262,8 @@
                          "sourceFilename":  "Komi-Can-t-Communicate-Wallpaper-01.png",
                          "newFile":  "komi-cant-communicate-wallpaper-01.png",
                          "status":  "preexisting-match",
-                         "published":  true
+                         "published":  true,
+                         "httpStatus":  200
                      },
                      {
                          "post":  "Whitebeard",
@@ -254,8 +274,9 @@
                          "newUrl":  "https://raheebpasha792-jpg.github.io/anidraw-wallpapers/whitebeard-wallpaper-01.jpg",
                          "sourceFilename":  "1715267913147.jpg",
                          "newFile":  "whitebeard-wallpaper-01.jpg",
-                         "status":  "copied-to-staging",
-                         "published":  false
+                         "status":  "published",
+                         "published":  true,
+                         "httpStatus":  200
                      },
                      {
                          "post":  "Oppenheimer",
@@ -266,8 +287,9 @@
                          "newUrl":  "https://raheebpasha792-jpg.github.io/anidraw-wallpapers/oppenheimer-wallpaper-01.png",
                          "sourceFilename":  "1715267912536.png",
                          "newFile":  "oppenheimer-wallpaper-01.png",
-                         "status":  "copied-to-staging",
-                         "published":  false
+                         "status":  "published",
+                         "published":  true,
+                         "httpStatus":  200
                      },
                      {
                          "post":  "Twilight Coffee Moment",
@@ -278,8 +300,9 @@
                          "newUrl":  "https://raheebpasha792-jpg.github.io/anidraw-wallpapers/twilight-coffee-moment-wallpaper-01.jpg",
                          "sourceFilename":  "1715267912878.jpg",
                          "newFile":  "twilight-coffee-moment-wallpaper-01.jpg",
-                         "status":  "copied-to-staging",
-                         "published":  false
+                         "status":  "published",
+                         "published":  true,
+                         "httpStatus":  200
                      },
                      {
                          "post":  "Sanemi Shinazugawa",
@@ -290,8 +313,9 @@
                          "newUrl":  "https://raheebpasha792-jpg.github.io/anidraw-wallpapers/sanemi-colour-01.png",
                          "sourceFilename":  "Sanemi-Colour-01.png",
                          "newFile":  "sanemi-colour-01.png",
-                         "status":  "copied-to-staging",
-                         "published":  false
+                         "status":  "published",
+                         "published":  true,
+                         "httpStatus":  200
                      },
                      {
                          "post":  "Sanemi Shinazugawa",
@@ -302,8 +326,9 @@
                          "newUrl":  "https://raheebpasha792-jpg.github.io/anidraw-wallpapers/sanemi-drawing-02.jpg",
                          "sourceFilename":  "Sanemi-Drawing-02.jpg",
                          "newFile":  "sanemi-drawing-02.jpg",
-                         "status":  "copied-to-staging",
-                         "published":  false
+                         "status":  "published",
+                         "published":  true,
+                         "httpStatus":  200
                      },
                      {
                          "post":  "Zoro",
@@ -314,8 +339,9 @@
                          "newUrl":  "https://raheebpasha792-jpg.github.io/anidraw-wallpapers/zoro-colour-05.jpg",
                          "sourceFilename":  "Zoro-Colour-05.jpg",
                          "newFile":  "zoro-colour-05.jpg",
-                         "status":  "copied-to-staging",
-                         "published":  false
+                         "status":  "published",
+                         "published":  true,
+                         "httpStatus":  200
                      },
                      {
                          "post":  "Zoro",
@@ -326,8 +352,9 @@
                          "newUrl":  "https://raheebpasha792-jpg.github.io/anidraw-wallpapers/zoro-colour-05-green.jpg",
                          "sourceFilename":  "1000063271.jpg",
                          "newFile":  "zoro-colour-05-green.jpg",
-                         "status":  "copied-to-staging",
-                         "published":  false
+                         "status":  "published",
+                         "published":  true,
+                         "httpStatus":  200
                      },
                      {
                          "post":  "Zoro",
@@ -338,8 +365,9 @@
                          "newUrl":  "https://raheebpasha792-jpg.github.io/anidraw-wallpapers/zoro-drawing-01.jpg",
                          "sourceFilename":  "Zoro-Drawing-01.jpg",
                          "newFile":  "zoro-drawing-01.jpg",
-                         "status":  "copied-to-staging",
-                         "published":  false
+                         "status":  "published",
+                         "published":  true,
+                         "httpStatus":  200
                      },
                      {
                          "post":  "Zoro",
@@ -350,8 +378,9 @@
                          "newUrl":  "https://raheebpasha792-jpg.github.io/anidraw-wallpapers/zoro-colour-05-tan.jpg",
                          "sourceFilename":  "1715267910240.jpg",
                          "newFile":  "zoro-colour-05-tan.jpg",
-                         "status":  "copied-to-staging",
-                         "published":  false
+                         "status":  "published",
+                         "published":  true,
+                         "httpStatus":  200
                      },
                      {
                          "post":  "Law",
@@ -363,7 +392,8 @@
                          "sourceFilename":  "One-Piece-Wallpaper-02.png",
                          "newFile":  "one-piece-wallpaper-02.png",
                          "status":  "preexisting-match",
-                         "published":  true
+                         "published":  true,
+                         "httpStatus":  200
                      },
                      {
                          "post":  "Law",
@@ -375,7 +405,8 @@
                          "sourceFilename":  "One-Piece-Wallpaper-01.png",
                          "newFile":  "one-piece-wallpaper-01.png",
                          "status":  "preexisting-match",
-                         "published":  true
+                         "published":  true,
+                         "httpStatus":  200
                      },
                      {
                          "post":  "Chainsaw Man",
@@ -387,7 +418,8 @@
                          "sourceFilename":  "1000067946.png",
                          "newFile":  "chainsaw-man-wallpaper-01.png",
                          "status":  "preexisting-identical-by-sha256",
-                         "published":  true
+                         "published":  true,
+                         "httpStatus":  200
                      },
                      {
                          "post":  "Mahito Maki",
@@ -398,8 +430,9 @@
                          "newUrl":  "https://raheebpasha792-jpg.github.io/anidraw-wallpapers/mahito-maki-wallpaper-01.png",
                          "sourceFilename":  "1000076629.png",
                          "newFile":  "mahito-maki-wallpaper-01.png",
-                         "status":  "copied-to-staging",
-                         "published":  false
+                         "status":  "published",
+                         "published":  true,
+                         "httpStatus":  200
                      },
                      {
                          "post":  "Fire Force",
@@ -411,7 +444,8 @@
                          "sourceFilename":  "Fire-Force-Wallpaper-01.png",
                          "newFile":  "fire-force-wallpaper-01.png",
                          "status":  "preexisting-match",
-                         "published":  true
+                         "published":  true,
+                         "httpStatus":  200
                      },
                      {
                          "post":  "Gun",
@@ -423,7 +457,8 @@
                          "sourceFilename":  "Lookism-Wallpaper-02.png",
                          "newFile":  "lookism-wallpaper-02.png",
                          "status":  "preexisting-match",
-                         "published":  true
+                         "published":  true,
+                         "httpStatus":  200
                      },
                      {
                          "post":  "Gun",
@@ -435,7 +470,8 @@
                          "sourceFilename":  "Lookism-Wallpaper-01.png",
                          "newFile":  "lookism-wallpaper-01.png",
                          "status":  "preexisting-match",
-                         "published":  true
+                         "published":  true,
+                         "httpStatus":  200
                      },
                      {
                          "post":  "Gun",
@@ -446,8 +482,9 @@
                          "newUrl":  "https://raheebpasha792-jpg.github.io/anidraw-wallpapers/lookism-wallpaper-02-gray.jpg",
                          "sourceFilename":  "1715268317558.jpg",
                          "newFile":  "lookism-wallpaper-02-gray.jpg",
-                         "status":  "copied-to-staging",
-                         "published":  false
+                         "status":  "published",
+                         "published":  true,
+                         "httpStatus":  200
                      },
                      {
                          "post":  "Gun",
@@ -458,8 +495,9 @@
                          "newUrl":  "https://raheebpasha792-jpg.github.io/anidraw-wallpapers/lookism-wallpaper-02-blue.jpg",
                          "sourceFilename":  "1715268317581.jpg",
                          "newFile":  "lookism-wallpaper-02-blue.jpg",
-                         "status":  "copied-to-staging",
-                         "published":  false
+                         "status":  "published",
+                         "published":  true,
+                         "httpStatus":  200
                      },
                      {
                          "post":  "Black Clover",
@@ -471,7 +509,8 @@
                          "sourceFilename":  "Black-Clover-Wallpaper-01.png",
                          "newFile":  "black-clover-wallpaper-01.png",
                          "status":  "preexisting-match",
-                         "published":  true
+                         "published":  true,
+                         "httpStatus":  200
                      },
                      {
                          "post":  "Black Clover",
@@ -483,7 +522,8 @@
                          "sourceFilename":  "Black-Clover-Wallpaper-02.png",
                          "newFile":  "black-clover-wallpaper-02.png",
                          "status":  "preexisting-match",
-                         "published":  true
+                         "published":  true,
+                         "httpStatus":  200
                      },
                      {
                          "post":  "Black Clover",
@@ -495,7 +535,8 @@
                          "sourceFilename":  "Black-Clover-Wallpaper-03.png",
                          "newFile":  "black-clover-wallpaper-03.png",
                          "status":  "preexisting-match",
-                         "published":  true
+                         "published":  true,
+                         "httpStatus":  200
                      },
                      {
                          "post":  "Yuji vs Mahito",
@@ -506,8 +547,9 @@
                          "newUrl":  "https://raheebpasha792-jpg.github.io/anidraw-wallpapers/yuji-vs-mahito-wallpaper-01.jpg",
                          "sourceFilename":  "1000029040.jpg",
                          "newFile":  "yuji-vs-mahito-wallpaper-01.jpg",
-                         "status":  "copied-to-staging",
-                         "published":  false
+                         "status":  "published",
+                         "published":  true,
+                         "httpStatus":  200
                      },
                      {
                          "post":  "Yuji vs Mahito",
@@ -518,8 +560,9 @@
                          "newUrl":  "https://raheebpasha792-jpg.github.io/anidraw-wallpapers/yuji-vs-mahito-drawing-01.jpg",
                          "sourceFilename":  "Yuji-vs-Mahito-Drawing-01.jpg",
                          "newFile":  "yuji-vs-mahito-drawing-01.jpg",
-                         "status":  "copied-to-staging",
-                         "published":  false
+                         "status":  "published",
+                         "published":  true,
+                         "httpStatus":  200
                      },
                      {
                          "post":  "Ace",
@@ -530,8 +573,9 @@
                          "newUrl":  "https://raheebpasha792-jpg.github.io/anidraw-wallpapers/ace-colour-01.jpg",
                          "sourceFilename":  "Ace-Coiour-01.jpg",
                          "newFile":  "ace-colour-01.jpg",
-                         "status":  "copied-to-staging",
-                         "published":  false
+                         "status":  "published",
+                         "published":  true,
+                         "httpStatus":  200
                      },
                      {
                          "post":  "Ace",
@@ -542,8 +586,9 @@
                          "newUrl":  "https://raheebpasha792-jpg.github.io/anidraw-wallpapers/ace-drawing-01.jpg",
                          "sourceFilename":  "Ace-Drawing-01.jpg",
                          "newFile":  "ace-drawing-01.jpg",
-                         "status":  "copied-to-staging",
-                         "published":  false
+                         "status":  "published",
+                         "published":  true,
+                         "httpStatus":  200
                      },
                      {
                          "post":  "Guts",
@@ -554,8 +599,9 @@
                          "newUrl":  "https://raheebpasha792-jpg.github.io/anidraw-wallpapers/guts-wallpaper-01.jpg",
                          "sourceFilename":  "1715267908898.jpg",
                          "newFile":  "guts-wallpaper-01.jpg",
-                         "status":  "copied-to-staging",
-                         "published":  false
+                         "status":  "published",
+                         "published":  true,
+                         "httpStatus":  200
                      },
                      {
                          "post":  "Guts",
@@ -566,8 +612,9 @@
                          "newUrl":  "https://raheebpasha792-jpg.github.io/anidraw-wallpapers/berserk-drawing-01.jpg",
                          "sourceFilename":  "Berserk-Drawing-01.jpg",
                          "newFile":  "berserk-drawing-01.jpg",
-                         "status":  "copied-to-staging",
-                         "published":  false
+                         "status":  "published",
+                         "published":  true,
+                         "httpStatus":  200
                      },
                      {
                          "post":  "Sung Jin-woo",
@@ -578,8 +625,9 @@
                          "newUrl":  "https://raheebpasha792-jpg.github.io/anidraw-wallpapers/sung-jin-woo-wallpaper-01.png",
                          "sourceFilename":  "image.png",
                          "newFile":  "sung-jin-woo-wallpaper-01.png",
-                         "status":  "copied-to-staging",
-                         "published":  false
+                         "status":  "published",
+                         "published":  true,
+                         "httpStatus":  200
                      },
                      {
                          "post":  "Sung Jin-woo",
@@ -590,8 +638,9 @@
                          "newUrl":  "https://raheebpasha792-jpg.github.io/anidraw-wallpapers/sung-jin-woo-colour-02.png",
                          "sourceFilename":  "Sung-Jin-Woo-Colour-02.png",
                          "newFile":  "sung-jin-woo-colour-02.png",
-                         "status":  "copied-to-staging",
-                         "published":  false
+                         "status":  "published",
+                         "published":  true,
+                         "httpStatus":  200
                      },
                      {
                          "post":  "Sung Jin-woo",
@@ -602,8 +651,9 @@
                          "newUrl":  "https://raheebpasha792-jpg.github.io/anidraw-wallpapers/sung-jin-woo-drawing-02.png",
                          "sourceFilename":  "Sung-Jin-Woo-Drawing-02.png",
                          "newFile":  "sung-jin-woo-drawing-02.png",
-                         "status":  "copied-to-staging",
-                         "published":  false
+                         "status":  "published",
+                         "published":  true,
+                         "httpStatus":  200
                      },
                      {
                          "post":  "Yuta",
@@ -614,8 +664,9 @@
                          "newUrl":  "https://raheebpasha792-jpg.github.io/anidraw-wallpapers/yuta-wallpaper-01.png",
                          "sourceFilename":  "1000067942.png",
                          "newFile":  "yuta-wallpaper-01.png",
-                         "status":  "copied-to-staging",
-                         "published":  false
+                         "status":  "published",
+                         "published":  true,
+                         "httpStatus":  200
                      },
                      {
                          "post":  "Ippo",
@@ -626,8 +677,9 @@
                          "newUrl":  "https://raheebpasha792-jpg.github.io/anidraw-wallpapers/ippo-wallpaper-01.png",
                          "sourceFilename":  "1000062842.png",
                          "newFile":  "ippo-wallpaper-01.png",
-                         "status":  "copied-to-staging",
-                         "published":  false
+                         "status":  "published",
+                         "published":  true,
+                         "httpStatus":  200
                      },
                      {
                          "post":  "Loki",
@@ -639,7 +691,8 @@
                          "sourceFilename":  "1000078660.png",
                          "newFile":  "loki-wallpaper-01.png",
                          "status":  "preexisting-identical-by-sha256",
-                         "published":  true
+                         "published":  true,
+                         "httpStatus":  200
                      },
                      {
                          "post":  "Samurai Jack",
@@ -663,7 +716,8 @@
                          "sourceFilename":  "Hunter-x-Hunter-Wallpaper-01.png",
                          "newFile":  "hunter-x-hunter-wallpaper-01.png",
                          "status":  "preexisting-match",
-                         "published":  true
+                         "published":  true,
+                         "httpStatus":  200
                      },
                      {
                          "post":  "Komi Can\u0027t Communicate Wallpaper #01",
@@ -675,7 +729,8 @@
                          "sourceFilename":  "Komi-Can-t-Communicate-Wallpaper-01.png",
                          "newFile":  "komi-cant-communicate-wallpaper-01.png",
                          "status":  "preexisting-match",
-                         "published":  true
+                         "published":  true,
+                         "httpStatus":  200
                      },
                      {
                          "post":  "Goku",
@@ -687,7 +742,8 @@
                          "sourceFilename":  "Dragon-Ball-Wallpaper-04.png",
                          "newFile":  "dragon-ball-wallpaper-04.png",
                          "status":  "preexisting-match",
-                         "published":  true
+                         "published":  true,
+                         "httpStatus":  200
                      },
                      {
                          "post":  "Goku",
@@ -699,7 +755,8 @@
                          "sourceFilename":  "Dragon-Ball-Wallpaper-03.png",
                          "newFile":  "dragon-ball-wallpaper-03.png",
                          "status":  "preexisting-match",
-                         "published":  true
+                         "published":  true,
+                         "httpStatus":  200
                      },
                      {
                          "post":  "Colour",
@@ -747,7 +804,8 @@
                          "sourceFilename":  "Solo-Leveling-Wallpaper-01.png",
                          "newFile":  "solo-leveling-wallpaper-01.png",
                          "status":  "preexisting-match",
-                         "published":  true
+                         "published":  true,
+                         "httpStatus":  200
                      },
                      {
                          "post":  "Toji",
@@ -759,7 +817,9 @@
                          "sourceFilename":  "Jujutsu-kaisen-Wallpaper-03.png",
                          "newFile":  "jujutsu-kaisen-wallpaper-03.png",
                          "status":  "preexisting-match",
-                         "published":  true
+                         "published":  true,
+                         "httpStatus":  200
                      }
-                 ]
+                 ],
+    "verifiedAt":  "2026-11-16T07:31:59.172Z"
 }
